@@ -14,7 +14,31 @@ Deonstrar inputs e outputs da avaliação do serviço
 Foram baixadas 3 imagens para testar o Vision Studio (Extract text from images e Add captions to images) <br>
 Imagens:
 
-## Percurso
+## Input
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Imagens</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td>[`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/1-postit.jfif)</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>pessoas com texto</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>postit escrito a mão com corações desenhados</td>  
+    </tr>
+  </tbody>
+</table>
+
+## Output - Resultados
 <table>
   <thead>
     <tr align="left">
@@ -37,7 +61,6 @@ Imagens:
     </tr>
   </tbody>
 </table>
-
 
 
 
