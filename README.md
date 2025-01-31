@@ -7,20 +7,19 @@
 Repositório desenvolvido mostrar inputs e output utilizados para testar o serviço de visão de AI.
 
 ## Objetivo
-Demonstrar os inputs e outputs.
+Deonstrar inputs e outputs da avaliação do serviço
+
 ---
 ## Descrição das etapas e comentários
 Foram baixadas 3 imagens para testar o Vision Studio (Extract text from images e Add captions to images) <br>
 Imagens:
-1 - 
-2 - pessoas com texto
-3 - 
+
 ## Percurso
 <table>
   <thead>
     <tr align="left">
       <th>Nº</th>
-      <th>Etapas</th>
+      <th>Imagens</th>
     </tr>
   </thead>
   <tbody align="left">
