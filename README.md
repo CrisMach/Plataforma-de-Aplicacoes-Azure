@@ -25,7 +25,7 @@ Imagens:
  </table>
 01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs)
 
-[`postit com texto`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs)
+[`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs)
 
 ## Output - Resultados
 <table>
