@@ -23,6 +23,7 @@ Imagens:
     </tr>
   </thead>
  </table>
+
 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/postit.jfif)
 
 ## Output - Resultados
