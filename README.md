@@ -25,6 +25,7 @@ Imagens:
  </table>
 
 01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/1-postit.jfif)
+02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/2-pessoas.jfif)
 
 ## Output - Resultados
 <table>
