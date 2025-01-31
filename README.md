@@ -12,15 +12,35 @@ Demonstrar os inputs e outputs.
 ## Descrição das etapas e comentários
 Foram baixadas 3 imagens para testar o Vision Studio (Extract text from images e Add captions to images) <br>
 Imagens:
-1 - postit com texto
+1 - 
 2 - pessoas com texto
-3 - postit escrito a mão com corações desenhados
+3 - 
+## Percurso
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Etapas</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td>postit com texto</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>pessoas com texto</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>postit escrito a mão com corações desenhados</td>  
+    </tr>
+  </tbody>
+</table>
 
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)]([https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md](https://github.com/CrisMach/labaivision/tree/main/inputs))
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
 
-Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
+
 
 > [!IMPORTANT]   
 > Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
