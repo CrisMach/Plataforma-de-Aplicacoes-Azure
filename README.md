@@ -22,21 +22,7 @@ Imagens:
       <th>Imagens</th>
     </tr>
   </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>[`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/1-postit.jfif)</td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>pessoas com texto</td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>postit escrito a mão com corações desenhados</td>  
-    </tr>
-  </tbody>
-</table>
+ </table>
 
 ## Output - Resultados
 <table>
