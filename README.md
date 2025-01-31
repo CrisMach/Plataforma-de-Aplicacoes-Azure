@@ -15,15 +15,8 @@ Foram baixadas 3 imagens para testar o Vision Studio (Extract text from images e
 Imagens:
 
 ## Input
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Imagens</th>
-    </tr>
-  </thead>
- </table>
 
+     **Imagens**
 01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/1-postit.jfif)
 02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/2-pessoas.jfif)
 
