@@ -16,9 +16,10 @@ Imagens:
 
 ## Input
 
-     **Imagens**
+    IMAGENS
 01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/1-postit.jfif)
 02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/2-pessoas.jfif)
+03 [`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/inputs/3-postitamao.png)
 
 ## Output - Resultados
 <table>
