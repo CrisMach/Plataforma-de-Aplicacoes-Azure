@@ -25,7 +25,7 @@ Imagens:
  </table>
 01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/1-postit.jfif/)
 
-[`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs)
+[`postit com texto`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs)
 
 ## Output - Resultados
 <table>
