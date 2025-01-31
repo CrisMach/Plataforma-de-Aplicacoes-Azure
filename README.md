@@ -15,8 +15,6 @@ Foram baixadas 3 imagens para testar o Vision Studio (Extract text from images e
 Imagens:
 
 ## Input
-
-    IMAGENS
 01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/1-postit.jfif)
 02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/2-pessoas.jfif)
 03 [`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/inputs/3-postitamao.png)
@@ -26,9 +24,9 @@ Imagens:
 02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/output/2-pessoas.jfif)
 03 [`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/output/3-postitamao.png)
 
+### Conclusão
+Os serviços de visão funcionaram muito bem, interessante notar que os corações não são entendidos, mostrando outro caracter em seu lugar, o primeiro coração não esta totalmente preenchido e foi reconhecido como aspas duplas ", já o segundo está totalmente preenchido e foi reconhecido como hífen -
 
-### Fórum do Repositório (GitHub Discussions)
-GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
 
 > [!WARNING]  
 > **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
