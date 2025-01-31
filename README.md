@@ -22,33 +22,10 @@ Imagens:
 03 [`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/inputs/3-postitamao.png)
 
 ## Output - Resultados
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Imagens</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>postit com texto</td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>pessoas com texto</td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>postit escrito a mão com corações desenhados</td>  
-    </tr>
-  </tbody>
-</table>
+01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/output/1-postit.jfif)
+02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/output/2-pessoas.jfif)
+03 [`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/output/3-postitamao.png)
 
-
-
-> [!IMPORTANT]   
-> Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
 
 ### Fórum do Repositório (GitHub Discussions)
 GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
