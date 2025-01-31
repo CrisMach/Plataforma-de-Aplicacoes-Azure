@@ -7,7 +7,7 @@
 Repositório desenvolvido mostrar inputs e output utilizados para testar o serviço de visão de AI.
 
 ## Objetivo
-Deonstrar inputs e outputs da avaliação do serviço
+Demonstrar inputs e outputs da avaliação do serviço
 
 ---
 ## Descrição das etapas e comentários
@@ -25,7 +25,7 @@ Imagens:
  </table>
 01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs)
 
-[`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs)
+[`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/postit.jfif)
 
 ## Output - Resultados
 <table>
