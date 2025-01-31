@@ -23,9 +23,7 @@ Imagens:
     </tr>
   </thead>
  </table>
-01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs)
-
-[`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/postit.jfif)
+01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/postit.jfif)
 
 ## Output - Resultados
 <table>
