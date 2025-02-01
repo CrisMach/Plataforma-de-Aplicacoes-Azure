@@ -20,7 +20,7 @@ Imagens:
 03 [`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/inputs/3-postitamao.png)
 
 ## Output - Resultados para Extract text from images
-01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/output/1-postit.jfif)
+01 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/1-ex-postit.png?raw=true)
 02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/output/2-pessoas.jfif)
 03 [`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/output/3-postitamao.png)
 
