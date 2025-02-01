@@ -31,7 +31,7 @@ Imagens:
 03 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/3-cap-postitamao.png?raw=true)
 
 ### Conclusão
-Os serviços de visão funcionaram muito bem, interessante notar que os corações não são entendidos, mostrando outro caracter em seu lugar, o primeiro coração não esta totalmente preenchido e foi reconhecido como aspas duplas ", já o segundo está totalmente preenchido e foi reconhecido como hífen -
+Os serviços de visão funcionaram muito bem, interessante notar que os corações não são entendidos m Extract Text from Images, mostrando outro caracter em seu lugar, o primeiro coração não esta totalmente preenchido e foi reconhecido como aspas duplas ", já o segundo está totalmente preenchido e foi reconhecido como hífen -
 
 ---
 
