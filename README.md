@@ -17,14 +17,18 @@ Imagens:
 ## Input
 01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/1-postit.jfif)
 02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/2-pessoas.jfif)
-03 [`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/inputs/3-postitamao.png)
+03 
+[`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/inputs/3-postitamao.png)
 
 ## Output - Resultados para Extract text from images
-01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/output/1-postit.jfif)
-02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/output/2-pessoas.jfif)
-03 [`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/output/3-postitamao.png)
+01 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/1-ex-postit.png?raw=true)
+02 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/2-ex-pessoas.png?raw=true)
+03 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/3-ex-postitamao.png?raw=true)
 
-![alt text](https://github.com/CrisMach/labaivision/blob/main/output/3-postitamao.png?raw=true)
+## Output - Resultados para Add captions to images
+01 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/1-cap-postit.png?raw=true)
+02 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/2-cap-pessoas.png?raw=true)
+03 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/3-cap-postitamao.png?raw=true)
 
 ### Conclusão
 Os serviços de visão funcionaram muito bem, interessante notar que os corações não são entendidos, mostrando outro caracter em seu lugar, o primeiro coração não esta totalmente preenchido e foi reconhecido como aspas duplas ", já o segundo está totalmente preenchido e foi reconhecido como hífen -
