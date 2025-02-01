@@ -33,10 +33,6 @@ Imagens:
 ### Conclusão
 Os serviços de visão funcionaram muito bem, interessante notar que os corações não são entendidos, mostrando outro caracter em seu lugar, o primeiro coração não esta totalmente preenchido e foi reconhecido como aspas duplas ", já o segundo está totalmente preenchido e foi reconhecido como hífen -
 
-
-> [!WARNING]  
-> **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
-
 ---
 
 ## Contribua
