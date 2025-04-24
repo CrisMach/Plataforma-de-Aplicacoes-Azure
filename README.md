@@ -18,8 +18,8 @@ Imagens:
 01 [`link para a aula`](https://web.dio.me/lab/armazenando-dados-de-um-e-commerce-na-cloud/learning/d13fd745-0321-452d-8236-0c3c65948b98?back=/track/microsoft-azure-cloud-native)
 02 [`link para o código`](https://github.com/digitalinnovationone/Microsoft_Application_Platform/tree/main/Labs/Lab01)
 
-## Output - Resultados para Extract text from images
-01 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/1-ex-postit.png?raw=true)
+## Output - Cadastro de Produtos
+01 ![Cadastro de Produtos](https://github.com/CrisMach/Plataforma-de-Aplicacoes-Azure/blob/main/output/Cadastro.png?raw=true)
 02 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/2-ex-pessoas.png?raw=true)
 03 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/3-ex-postitamao.png?raw=true)
 
