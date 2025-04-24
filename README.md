@@ -15,10 +15,8 @@ Criação de Storage account, Azure Database e código python para criação da 
 Imagens:
 
 ## Input
-01 [`link para o código`](https://github.com/digitalinnovationone/Microsoft_Application_Platform/tree/main/Labs/Lab01)
-02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/2-pessoas.jfif)
-03 
-[`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/inputs/3-postitamao.png)
+01 [`link para a aula`](https://web.dio.me/lab/armazenando-dados-de-um-e-commerce-na-cloud/learning/d13fd745-0321-452d-8236-0c3c65948b98?back=/track/microsoft-azure-cloud-native)
+02 [`link para o código`](https://github.com/digitalinnovationone/Microsoft_Application_Platform/tree/main/Labs/Lab01)
 
 ## Output - Resultados para Extract text from images
 01 ![alt text](https://github.com/CrisMach/labaivision/blob/main/output/1-ex-postit.png?raw=true)
