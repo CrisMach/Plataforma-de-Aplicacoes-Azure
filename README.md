@@ -1,21 +1,21 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Laboratório Análise de Visão 4.0 com AI Vision Service </span>
+    <span> Laboratório Fundamentos da Plataforma de Aplicações no Azure </span>
 </h1>
 
-Repositório desenvolvido mostrar inputs e output utilizados para testar o serviço de visão de AI.
+Repositório desenvolvido mostrar inputs e output utilizados na criação de e-commerce com código python e Azure database.
 
 ## Objetivo
-Demonstrar inputs e outputs da avaliação do serviço
+Demonstrar inputs e outputs para criação do e-commerce (cadastro de produtos)
 
 ---
 ## Descrição das etapas e comentários
-Foram baixadas 3 imagens para testar o Vision Studio (Extract text from images e Add captions to images) <br>
+Criação de Storage account, Azure Database e código python para criação da applicação de cadastro de produtos <br>
 Imagens:
 
 ## Input
-01 [`postit com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/1-postit.jfif)
+01 [`link para o código`](https://github.com/digitalinnovationone/Microsoft_Application_Platform/tree/main/Labs/Lab01)
 02 [`pessoas com texto`](https://github.com/CrisMach/labaivision/blob/main/inputs/2-pessoas.jfif)
 03 
 [`postit escrito a mão com corações desenhados`](https://github.com/CrisMach/labaivision/blob/main/inputs/3-postitamao.png)
