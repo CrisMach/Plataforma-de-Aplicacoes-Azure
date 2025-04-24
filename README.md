@@ -24,11 +24,11 @@ Imagens:
 ## Output - Listar Produtos Cadastrados
 01 ![Listar Produtos](https://github.com/CrisMach/Plataforma-de-Aplicacoes-Azure/blob/main/output/consulta-produtos.png?raw=true)
 
-## Output - Listar Produtos Cadastrados
+## Output - Error Message
 01 ![Erro ao Cadastrar/Listar Produtos](https://github.com/CrisMach/Plataforma-de-Aplicacoes-Azure/blob/main/output/dbserver-error.png?raw=true)
 
 ### Conclusão
-Os serviços de visão funcionaram muito bem, interessante notar que os corações não são entendidos m Extract Text from Images, mostrando outro caracter em seu lugar, o primeiro coração não esta totalmente preenchido e foi reconhecido como aspas duplas ", já o segundo está totalmente preenchido e foi reconhecido como hífen -
+O código apresentado não cria a tabela de produtos no Azure Database, foi necessário cria-lo via Microsoft SQL Management Studio, a mensagem de erro exibida acima ocorreu devido a uma característica do Azure Database, que "desliga" o SQL Server gerando economia, o famoso pay per use (Pague por Uso), neste modelo a primeira requisição irá "ligar" o SQL Server porém gera a mensagem de erro, após alguns segundos (neste teste levou menos de 60 segundos) as demais requisões passam a ser atendidas.
 
 ---
 
@@ -46,9 +46,9 @@ Os serviços de visão funcionaram muito bem, interessante notar que os coraçõ
 ⭐ Adicionando aos favoritos (**star**) 
 
 ### Membros da comunidade que já contribuiram:
-<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
-</a>
+#<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
+#  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
+#</a>
 
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Cristiano</a>.</div>
